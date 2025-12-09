@@ -64,7 +64,7 @@
       "title_en": "Ganesha Pancharatna",
       "category_id": "ganesha",
       "duration_min": 5,
-      "content": "ಮುದಾಕರಾತ್ತ ಮೋದಕಂ ಸದಾ ವಿಮುಕ್ತಿಸಾಧಕಂ\nಕಲಾಧರಾವತಂಸಕಂ ವಿಲಾಸಿಲೋಕರಕ್ಷಕಮ್ |\nಅನಾಯಕೈಕನಾಯಕಂ ವಿನಾಶಿತೇಭದೈತ್ಯಕಂ\nನತಾಶುಭಾಶುನಾಶಕಂ ನಮಾಮಿ ತಂ ವಿನಾಯಕಮ್ || ೧ ||",
+      "content": "content/ganesh_pancharatna.json",
       "benefits": "ಸಕಲ ವಿಘ್ನಗಳ ನಿವಾರಣೆ, ಬುದ್ಧಿವಿವೇಕಗಳ ವೃದ್ಧಿ"
     },
     {
@@ -73,7 +73,7 @@
       "title_en": "Hanuman Chalisa",
       "category_id": "hanuman",
       "duration_min": 8,
-      "content": "ಶ್ರೀಗುರು ಚರಣ ಸರೋಜ ರಜ, ನಿಜಮನ ಮುಕುರ ಸುಧಾರಿ |\nಬರನೌ ರಘುಬರ ಬಿಮಲ ಜಸು, ಜೋ ದಾಯಕು ಫಲಚಾರಿ || \n\nಜಯ ಹನುಮಾನ ಜ್ಞಾನ ಗುಣ ಸಾಗರ |\nಜಯ ಕಪೀಸ ತಿಹುಁ ಲೋಕ ಉಜಾಗರ || ೧ ||",
+      "content": "content/hanuman_chalisa.json",
       "benefits": "ಶಕ್ತಿ ಸಾಹಸ ವೃದ್ಧಿ, ಭಯ ನಿವಾರಣೆ"
     },
     {
@@ -82,7 +82,7 @@
       "title_en": "Vishnu Sahasranama",
       "category_id": "sahasranama",
       "duration_min": 45,
-      "content": "ವಿಶ್ವಂ ವಿಷ್ಣುರ್ವಷಟ್ಕಾರೋ ಭೂತಭವ್ಯಭವತ್ಪ್ರಭುಃ |\nಭೂತಕೃದ್ಭೂತಭೃದ್ಭಾವೋ ಭೂತಾತ್ಮಾ ಭೂತಭಾವನಃ || ೧ ||",
+      "content": "content/vishnu_sahasranama.json",
       "benefits": "ಶಾಂತಿ, ಸಮೃದ್ಧಿ, ಆರೋಗ್ಯ"
     },
     {
@@ -91,7 +91,7 @@
       "title_en": "Lakshmi Ashtottara Shatanamavali",
       "category_id": "ashtottara",
       "duration_min": 10,
-      "content": "ॐ ಪ್ರಕೃತ್ಯೈ ನಮಃ |\nॐ ವಿಕೃತ್ಯೈ ನಮಃ |\nॐ ವಿದ್ಯಾಯೈ ನಮಃ |\nॐ ಸರ್ವಭೂತಹಿತಪ್ರದಾಯೈ ನಮಃ |",
+      "content": "content/lakshmi_ashtottara.json",
       "benefits": "ಐಶ್ವರ್ಯ ಸಮೃದ್ಧಿ ವೃದ್ಧಿ"
     },
     {
@@ -100,7 +100,7 @@
       "title_en": "Shiva Ashtakam",
       "category_id": "shiva",
       "duration_min": 6,
-      "content": "ಪ್ರಭುಂ ಪ್ರಾಣನಾಥಂ ವಿಭುಂ ವಿಶ್ವನಾಥಂ\nಜಗನ್ನಾಥನಾಥಂ ಸದಾನಂದಭಾಜಮ್ |\nಭವದ್ಭವ್ಯಭೂತೇಶ್ವರಂ ಭೂತನಾಥಂ\nಶಿವಂ ಶಂಕರಂ ಶಂಭುಮೀಶಾನಮೀಡೇ || ೧ ||",
+      "content": "content/shiva_ashtakam.json",
       "benefits": "ಮಾನಸಿಕ ಶಾಂತಿ, ಆಧ್ಯಾತ್ಮಿಕ ಉನ್ನತಿ"
     },
     {
@@ -109,7 +109,7 @@
       "title_en": "Guru Paduka Stotram",
       "category_id": "guru",
       "duration_min": 7,
-      "content": "ಅನಂತಸಂಸಾರಸಮುದ್ರತಾರ\nನೌಕಾಯಿತಾಭ್ಯಾಂ ಗುರುಭಕ್ತಿದಾಭ್ಯಾಮ್ |\nವೈರಾಗ್ಯಸಾಮ್ರಾಜ್ಯದಪೂಜನಾಭ್ಯಾಂ\nನಮೋ ನಮಃ ಶ್ರೀಗುರುಪಾದುಕಾಭ್ಯಾಮ್ || ೧ ||",
+      "content": "content/guru_paduka_stotram",
       "benefits": "ಗುರುಕೃಪೆ, ಜ್ಞಾನಪ್ರಾಪ್ತಿ"
     },
     {
@@ -118,7 +118,7 @@
       "title_en": "Navagraha Stotram",
       "category_id": "navagraha",
       "duration_min": 5,
-      "content": "ಆದಿತ್ಯಾಯ ಚ ಸೋಮಾಯ ಮಂಗಲಾಯ ಬುಧಾಯ ಚ |\nಗುರು ಶುಕ್ರ ಶನಿಭ್ಯಶ್ಚ ರಾಹವೇ ಕೇತವೇ ನಮಃ ||",
+      "content": "content/navagraha_stotram",
       "benefits": "ಗ್ರಹದೋಷ ನಿವಾರಣೆ"
     },
     {
@@ -127,7 +127,7 @@
       "title_en": "Durga Ashtottara Shatanamavali",
       "category_id": "ashtottara",
       "duration_min": 10,
-      "content": "ॐ ಸತೀ ನಮಃ |\nॐ ಸಾಧ್ವೀ ನಮಃ |\nॐ ಭವಪ್ರೀತಾಯೈ ನಮಃ |\nॐ ಭವಾನ್ಯೈ ನಮಃ |",
+      "content": "content/durga_ashtottara",
       "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
     },
     {
@@ -136,7 +136,7 @@
       "title_en": "Saraswati Vandana",
       "category_id": "devi",
       "duration_min": 3,
-      "content": "ಯಾ ಕುಂದೇಂದು ತುಷಾರಹಾರಧವಲಾ ಯಾ ಶುಭ್ರವಸ್ತ್ರಾವೃತಾ\nಯಾ ವೀಣಾವರದಂಡಮಂಡಿತಕರಾ ಯಾ ಶ್ವೇತಪದ್ಮಾಸನಾ |",
+      "content": "content/saraswati_vandana",
       "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
     }
   ]
