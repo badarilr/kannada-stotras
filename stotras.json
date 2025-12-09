@@ -109,7 +109,7 @@
       "title_en": "Guru Paduka Stotram",
       "category_id": "guru",
       "duration_min": 7,
-      "content": "content/guru_paduka_stotram",
+      "content": "content/guru_paduka_stotram.json",
       "benefits": "ಗುರುಕೃಪೆ, ಜ್ಞಾನಪ್ರಾಪ್ತಿ"
     },
     {
@@ -118,7 +118,7 @@
       "title_en": "Navagraha Stotram",
       "category_id": "navagraha",
       "duration_min": 5,
-      "content": "content/navagraha_stotram",
+      "content": "content/navagraha_stotram.json",
       "benefits": "ಗ್ರಹದೋಷ ನಿವಾರಣೆ"
     },
     {
@@ -127,7 +127,7 @@
       "title_en": "Durga Ashtottara Shatanamavali",
       "category_id": "ashtottara",
       "duration_min": 10,
-      "content": "content/durga_ashtottara",
+      "content": "content/durga_ashtottara.json",
       "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
     },
     {
@@ -136,7 +136,7 @@
       "title_en": "Saraswati Vandana",
       "category_id": "devi",
       "duration_min": 3,
-      "content": "content/saraswati_vandana",
+      "content": "content/saraswati_vandana.json",
       "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
     }
   ]
