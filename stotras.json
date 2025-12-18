@@ -112,6 +112,15 @@
       "content": "content/guru_paduka_stotram.json",
       "benefits": "ಗುರುಕೃಪೆ, ಜ್ಞಾನಪ್ರಾಪ್ತಿ"
     },
+     {
+      "id": "Jagadoddharana",
+      "title": "ಗುರು ಪಾದುಕಾ ಸ್ತೋತ್ರಮ್",
+      "title_en": "Jagadoddharana,
+      "category_id": "dasaru",
+      "duration_min": 7,
+      "content": "content/Jagadoddharana.json",
+      "benefits": " ಮಾನಸಿಕ ಶಾಂತಿ"
+    },
     {
       "id": "navagraha_stotram",
       "title": "ನವಗ್ರಹ ಸ್ತೋತ್ರಮ್",
