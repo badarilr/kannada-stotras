@@ -1,158 +1,158 @@
 {
-  "version": "1.0.1",
-  "last_updated": "2024-12-09",
-  "categories": [
-    {
-      "id": "ganesha",
-      "name": "ಗಣೇಶ ಸ್ತೋತ್ರಗಳು",
-      "name_en": "Ganesha Stotras",
-      "icon": "🐘"
-    },
-    {
-      "id": "shiva",
-      "name": "ಶಿವ ಸ್ತೋತ್ರಗಳು",
-      "name_en": "Shiva Stotras",
-      "icon": "🕉️"
-    },
-    {
-      "id": "vishnu",
-      "name": "ವಿಷ್ಣು ಸ್ತೋತ್ರಗಳು",
-      "name_en": "Vishnu Stotras",
-      "icon": "🪷"
-    },
-    {
-      "id": "devi",
-      "name": "ದೇವಿ ಸ್ತೋತ್ರಗಳು",
-      "name_en": "Devi Stotras",
-      "icon": "🌺"
-    },
-    {
-      "id": "hanuman",
-      "name": "ಹನುಮಾನ್ ಸ್ತೋತ್ರಗಳು",
-      "name_en": "Hanuman Stotras",
-      "icon": "🙏"
-    },
-    {
-      "id": "sahasranama",
-      "name": "ಸಹಸ್ರನಾಮಗಳು",
-      "name_en": "Sahasranamas",
-      "icon": "📿"
-    },
-    {
-      "id": "guru",
-      "name": "ಗುರು ಸ್ತೋತ್ರಗಳು",
-      "name_en": "Guru Stotras",
-      "icon": "🙏"
-    },
-    {
-     "id": "dasaru",
-      "name": "ದಾಸರ ಪದಗಳು",
-      "name_en": "dasara padagalu",
-      "icon": "🙏"
-    },
-    {
-      "id": "navagraha",
-      "name": "ನವಗ್ರಹ ಸ್ತೋತ್ರಗಳು",
-      "name_en": "Navagraha Stotras",
-      "icon": "🌟"
-    },
-    {
-      "id": "ashtottara",
-      "name": "ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
-      "name_en": "Ashtottara Shatanamavali",
-      "icon": "📜"
-    }
-  ],
-  "stotras": [
-    {
-      "id": "ganesh_pancharatna",
-      "title": "ಗಣೇಶ ಪಂಚರತ್ನ",
-      "title_en": "Ganesha Pancharatna",
-      "category_id": "ganesha",
-      "duration_min": 5,
-      "content": "content/ganesh_pancharatna.json",
-      "benefits": "ಸಕಲ ವಿಘ್ನಗಳ ನಿವಾರಣೆ, ಬುದ್ಧಿವಿವೇಕಗಳ ವೃದ್ಧಿ"
-    },
-    {
-      "id": "hanuman_chalisa",
-      "title": "ಹನುಮಾನ ಚಾಲೀಸಾ",
-      "title_en": "Hanuman Chalisa",
-      "category_id": "hanuman",
-      "duration_min": 8,
-      "content": "content/hanuman_chalisa.json",
-      "benefits": "ಶಕ್ತಿ ಸಾಹಸ ವೃದ್ಧಿ, ಭಯ ನಿವಾರಣೆ"
-    },
-    {
-      "id": "vishnu_sahasranama",
-      "title": "ವಿಷ್ಣು ಸಹಸ್ರನಾಮ",
-      "title_en": "Vishnu Sahasranama",
-      "category_id": "sahasranama",
-      "duration_min": 45,
-      "content": "content/vishnu_sahasranama.json",
-      "benefits": "ಶಾಂತಿ, ಸಮೃದ್ಧಿ, ಆರೋಗ್ಯ"
-    },
-    {
-      "id": "lakshmi_ashtottara",
-      "title": "ಲಕ್ಷ್ಮೀ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
-      "title_en": "Lakshmi Ashtottara Shatanamavali",
-      "category_id": "ashtottara",
-      "duration_min": 10,
-      "content": "content/lakshmi_ashtottara.json",
-      "benefits": "ಐಶ್ವರ್ಯ ಸಮೃದ್ಧಿ ವೃದ್ಧಿ"
-    },
-    {
-      "id": "shiva_ashtakam",
-      "title": "ಶಿವಾಷ್ಟಕಮ್",
-      "title_en": "Shiva Ashtakam",
-      "category_id": "shiva",
-      "duration_min": 6,
-      "content": "content/shiva_ashtakam.json",
-      "benefits": "ಮಾನಸಿಕ ಶಾಂತಿ, ಆಧ್ಯಾತ್ಮಿಕ ಉನ್ನತಿ"
-    },
-    {
-      "id": "guru_paduka_stotram",
-      "title": "ಗುರು ಪಾದುಕಾ ಸ್ತೋತ್ರಮ್",
-      "title_en": "Guru Paduka Stotram",
-      "category_id": "guru",
-      "duration_min": 7,
-      "content": "content/guru_paduka_stotram.json",
-      "benefits": "ಗುರುಕೃಪೆ, ಜ್ಞಾನಪ್ರಾಪ್ತಿ"
-    },
-     {
-      "id": "Jagadoddharana",
-      "title": "ಗುರು ಪಾದುಕಾ ಸ್ತೋತ್ರಮ್",
-      "title_en": "Jagadoddharana,
-      "category_id": "dasaru",
-      "duration_min": 7,
-      "content": "content/Jagadoddharana.json",
-      "benefits": " ಮಾನಸಿಕ ಶಾಂತಿ"
-    },
-    {
-      "id": "navagraha_stotram",
-      "title": "ನವಗ್ರಹ ಸ್ತೋತ್ರಮ್",
-      "title_en": "Navagraha Stotram",
-      "category_id": "navagraha",
-      "duration_min": 5,
-      "content": "content/navagraha_stotram.json",
-      "benefits": "ಗ್ರಹದೋಷ ನಿವಾರಣೆ"
-    },
-    {
-      "id": "durga_ashtottara",
-      "title": "ದುರ್ಗಾ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
-      "title_en": "Durga Ashtottara Shatanamavali",
-      "category_id": "ashtottara",
-      "duration_min": 10,
-      "content": "content/durga_ashtottara.json",
-      "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
-    },
-    {
-      "id": "saraswati_vandana",
-      "title": "ಸರಸ್ವತೀ ವಂದನಾ",
-      "title_en": "Saraswati Vandana",
-      "category_id": "devi",
-      "duration_min": 3,
-      "content": "content/saraswati_vandana.json",
-      "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
-    }
-  ]
+    "version": "1.0.1",
+    "last_updated": "2024-12-09",
+    "categories": [
+        {
+            "id": "ganesha",
+            "name": "ಗಣೇಶ ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Ganesha Stotras",
+            "icon": "🐘"
+        },
+        {
+            "id": "shiva",
+            "name": "ಶಿವ ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Shiva Stotras",
+            "icon": "🕉️"
+        },
+        {
+            "id": "vishnu",
+            "name": "ವಿಷ್ಣು ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Vishnu Stotras",
+            "icon": "🪷"
+        },
+        {
+            "id": "devi",
+            "name": "ದೇವಿ ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Devi Stotras",
+            "icon": "🌺"
+        },
+        {
+            "id": "hanuman",
+            "name": "ಹನುಮಾನ್ ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Hanuman Stotras",
+            "icon": "🙏"
+        },
+        {
+            "id": "sahasranama",
+            "name": "ಸಹಸ್ರನಾಮಗಳು",
+            "name_en": "Sahasranamas",
+            "icon": "📿"
+        },
+        {
+            "id": "guru",
+            "name": "ಗುರು ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Guru Stotras",
+            "icon": "🙏"
+        },
+        {
+            "id": "dasaru",
+            "name": "ದಾಸರ ಪದಗಳು",
+            "name_en": "dasara padagalu",
+            "icon": "🙏"
+        },
+        {
+            "id": "navagraha",
+            "name": "ನವಗ್ರಹ ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Navagraha Stotras",
+            "icon": "🌟"
+        },
+        {
+            "id": "ashtottara",
+            "name": "ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
+            "name_en": "Ashtottara Shatanamavali",
+            "icon": "📜"
+        }
+    ],
+    "stotras": [
+        {
+            "id": "ganesh_pancharatna",
+            "title": "ಗಣೇಶ ಪಂಚರತ್ನ",
+            "title_en": "Ganesha Pancharatna",
+            "category_id": "ganesha",
+            "duration_min": 5,
+            "content": "content/ganesh_pancharatna.json",
+            "benefits": "ಸಕಲ ವಿಘ್ನಗಳ ನಿವಾರಣೆ, ಬುದ್ಧಿವಿವೇಕಗಳ ವೃದ್ಧಿ"
+        },
+        {
+            "id": "hanuman_chalisa",
+            "title": "ಹನುಮಾನ ಚಾಲೀಸಾ",
+            "title_en": "Hanuman Chalisa",
+            "category_id": "hanuman",
+            "duration_min": 8,
+            "content": "content/hanuman_chalisa.json",
+            "benefits": "ಶಕ್ತಿ ಸಾಹಸ ವೃದ್ಧಿ, ಭಯ ನಿವಾರಣೆ"
+        },
+        {
+            "id": "vishnu_sahasranama",
+            "title": "ವಿಷ್ಣು ಸಹಸ್ರನಾಮ",
+            "title_en": "Vishnu Sahasranama",
+            "category_id": "sahasranama",
+            "duration_min": 45,
+            "content": "content/vishnu_sahasranama.json",
+            "benefits": "ಶಾಂತಿ, ಸಮೃದ್ಧಿ, ಆರೋಗ್ಯ"
+        },
+        {
+            "id": "lakshmi_ashtottara",
+            "title": "ಲಕ್ಷ್ಮೀ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
+            "title_en": "Lakshmi Ashtottara Shatanamavali",
+            "category_id": "ashtottara",
+            "duration_min": 10,
+            "content": "content/lakshmi_ashtottara.json",
+            "benefits": "ಐಶ್ವರ್ಯ ಸಮೃದ್ಧಿ ವೃದ್ಧಿ"
+        },
+        {
+            "id": "shiva_ashtakam",
+            "title": "ಶಿವಾಷ್ಟಕಮ್",
+            "title_en": "Shiva Ashtakam",
+            "category_id": "shiva",
+            "duration_min": 6,
+            "content": "content/shiva_ashtakam.json",
+            "benefits": "ಮಾನಸಿಕ ಶಾಂತಿ, ಆಧ್ಯಾತ್ಮಿಕ ಉನ್ನತಿ"
+        },
+        {
+            "id": "guru_paduka_stotram",
+            "title": "ಗುರು ಪಾದುಕಾ ಸ್ತೋತ್ರಮ್",
+            "title_en": "Guru Paduka Stotram",
+            "category_id": "guru",
+            "duration_min": 7,
+            "content": "content/guru_paduka_stotram.json",
+            "benefits": "ಗುರುಕೃಪೆ, ಜ್ಞಾನಪ್ರಾಪ್ತಿ"
+        },
+        {
+            "id": "Jagadoddharana",
+            "title": "ಗುರು ಪಾದುಕಾ ಸ್ತೋತ್ರಮ್",
+            "title_en": "Jagadoddharana",
+            "category_id": "dasaru",
+            "duration_min": 7,
+            "content": "content/Jagadoddharana.json",
+            "benefits": " ಮಾನಸಿಕ ಶಾಂತಿ"
+        },
+        {
+            "id": "navagraha_stotram",
+            "title": "ನವಗ್ರಹ ಸ್ತೋತ್ರಮ್",
+            "title_en": "Navagraha Stotram",
+            "category_id": "navagraha",
+            "duration_min": 5,
+            "content": "content/navagraha_stotram.json",
+            "benefits": "ಗ್ರಹದೋಷ ನಿವಾರಣೆ"
+        },
+        {
+            "id": "durga_ashtottara",
+            "title": "ದುರ್ಗಾ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
+            "title_en": "Durga Ashtottara Shatanamavali",
+            "category_id": "ashtottara",
+            "duration_min": 10,
+            "content": "content/durga_ashtottara.json",
+            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
+        },
+        {
+            "id": "saraswati_vandana",
+            "title": "ಸರಸ್ವತೀ ವಂದನಾ",
+            "title_en": "Saraswati Vandana",
+            "category_id": "devi",
+            "duration_min": 3,
+            "content": "content/saraswati_vandana.json",
+            "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
+        }
+    ]
 }
