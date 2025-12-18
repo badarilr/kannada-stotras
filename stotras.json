@@ -45,7 +45,7 @@
             "icon": "🙏"
         },
         {
-            "id": "dasaru",
+            "id": "dasarapada",
             "name": "ದಾಸರ ಪದಗಳು",
             "name_en": "dasara padagalu",
             "icon": "🙏"
@@ -120,9 +120,9 @@
         },
         {
             "id": "Jagadoddharana",
-            "title": "ಗುರು ಪಾದುಕಾ ಸ್ತೋತ್ರಮ್",
+            "title": "ಜಗದೋದ್ಧಾರನ ,
             "title_en": "Jagadoddharana",
-            "category_id": "dasaru",
+            "category_id": "dasarapada",
             "duration_min": 7,
             "content": "content/Jagadoddharana.json",
             "benefits": " ಮಾನಸಿಕ ಶಾಂತಿ"
