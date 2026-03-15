@@ -154,5 +154,14 @@
             "content": "content/saraswati_vandana.json",
             "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
         }
+         {
+            "id": "ganesh pancharathna",
+            "title": "ಶ್ರೀ ಗಣೇಶ ಪಂಚರತ್ನಂ",
+            "title_en": "ganesh pancharathna",
+            "category_id": "ganesha",
+            "duration_min": 1,
+            "content": "content/ganeshpancharatnam.json",
+            "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
+        }
     ]
 }
