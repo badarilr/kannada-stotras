@@ -190,7 +190,7 @@
             "title_en": "Sri Rama Ashtottara Shatanamavali",
             "category_id": "rama",
             "duration_min": 5,
-            "content": "content/rama/shri_rama_ashtottara_shatanama_stotram.json",
+            "content": "content/shri_rama_ashtottara_shatanama_stotram.json",
             "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
         },
         {
@@ -199,8 +199,8 @@
             "title_en": "sri_rama_kavacham",
             "category_id": "rama",
             "duration_min": 5,
-            "content": "content/rama/sri_rama_kavacham.json",
-            "benefits": ""
+            "content": "content/sri_rama_kavacham.json",
+            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
         },
         {
             "id": "sri_rama_hrudayam",
@@ -208,8 +208,8 @@
             "title_en": "sri rama hrudayam",
             "category_id": "rama",
             "duration_min": 5,
-            "content": "content/rama/sri_rama_hrudayam.json",
-            "benefits": ""
+            "content": "content/sri_rama_hrudayam.json",
+            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
         }
     ]
 }
