@@ -1,6 +1,6 @@
 {
     "version": "1.0.2",
-    "last_updated": "2024-12-09",
+    "last_updated": "2026-03-25",
     "categories": [
         {
             "id": "ganesha",
@@ -33,6 +33,12 @@
             "icon": "🙏"
         },
         {
+            "id": "rama",
+            "name": "ರಾಮ ಸ್ತೋತ್ರಗಳು",
+            "name_en": "Rama Stotras",
+            "icon": "🙏"
+        },
+        {
             "id": "sahasranama",
             "name": "ಸಹಸ್ರನಾಮಗಳು",
             "name_en": "Sahasranamas",
@@ -61,6 +67,12 @@
             "name": "ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
             "name_en": "Ashtottara Shatanamavali",
             "icon": "📜"
+        },
+        {
+            "id": "vividha",
+            "name": "vividha",
+            "name_en": "Vividha",
+            "icon": ""
         }
     ],
     "stotras": [
@@ -153,8 +165,8 @@
             "duration_min": 3,
             "content": "content/saraswati_vandana.json",
             "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
-        }
-         {
+        },
+        {
             "id": "ganesh pancharathna",
             "title": "ಶ್ರೀ ಗಣೇಶ ಪಂಚರತ್ನಂ",
             "title_en": "ganesh pancharathna",
@@ -162,6 +174,42 @@
             "duration_min": 1,
             "content": "content/ganeshpancharatnam.json",
             "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
+        },
+        {
+            "id": "shri rama raksha stotram",
+            "title": "ಶ್ರೀ ರಾಮ ರಕ್ಷಾ ಸ್ತೋತ್ರಂ",
+            "title_en": "shri rama raksha stotram",
+            "category_id": "rama",
+            "duration_min": 2,
+            "content": "content/rama/shri_rama_raksha_stotram.json",
+            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
+        },
+        {
+            "id": "ಶ್ರೀ ರಾಮ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
+            "title": "ಶ್ರೀ ರಾಮ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
+            "title_en": "Sri Rama Ashtottara Shatanamavali",
+            "category_id": "rama",
+            "duration_min": 5,
+            "content": "content/rama/shri_rama_ashtottara_shatanama_stotram.json",
+            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
+        },
+        {
+            "id": "sri_rama_kavacham",
+            "title": "ಶ್ರೀ ರಾಮ",
+            "title_en": "sri_rama_kavacham",
+            "category_id": "rama",
+            "duration_min": 5,
+            "content": "content/rama/sri_rama_kavacham.json",
+            "benefits": ""
+        },
+        {
+            "id": "sri_rama_hrudayam",
+            "title": "ಶ್ರೀ ರಾಮ ಹೃದಯಂ",
+            "title_en": "sri rama hrudayam",
+            "category_id": "rama",
+            "duration_min": 5,
+            "content": "content/rama/sri_rama_hrudayam.json",
+            "benefits": ""
         }
     ]
 }
