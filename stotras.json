@@ -131,13 +131,13 @@
             "benefits": "ಗುರುಕೃಪೆ, ಜ್ಞಾನಪ್ರಾಪ್ತಿ"
         },
         {
-            "id": "Jagadod_dharana",
+            "id": "jagadoddharana",
             "title": "ಜಗದೋದ್ಧಾರನ",
             "title_en": "Jagadoddharana",
             "category_id": "dasarapada",
             "duration_min": 7,
             "content": "content/Jagadoddharana.json",
-            "benefits": " ಮಾನಸಿಕ ಶಾಂತಿ"
+            "benefits": "ಮಾನಸಿಕ ಶಾಂತಿ"
         },
         {
             "id": "navagraha_stotram",
@@ -167,240 +167,193 @@
             "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
         },
         {
-            "id": "ganesh pancharathna",
-            "title": "ಶ್ರೀ ಗಣೇಶ ಪಂಚರತ್ನಂ",
-            "title_en": "ganesh pancharathna",
-            "category_id": "ganesha",
-            "duration_min": 1,
-            "content": "content/ganeshpancharatnam.json",
-            "benefits": "ವಿದ್ಯಾ ಬುದ್ಧಿ ವೃದ್ಧಿ"
-        },
-        {
-            "id": "shri rama raksha stotram",
-            "title": "ಶ್ರೀ ರಾಮ ರಕ್ಷಾ ಸ್ತೋತ್ರಂ",
-            "title_en": "shri rama raksha stotram",
-            "category_id": "rama",
-            "duration_min": 2,
-            "content": "content/shri_rama_raksha_stotram.json",
-            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
-        },
-        {
-            "id": "ಶ್ರೀ ರಾಮ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
-            "title": "ಶ್ರೀ ರಾಮ ಅಷ್ಟೋತ್ತರ ಶತನಾಮಾವಳಿ",
-            "title_en": "Sri Rama Ashtottara Shatanamavali",
-            "category_id": "rama",
+            "id": "aarthiharastotram",
+            "title": "ಆರ್ತಿಹರ ಸ್ತೋತ್ರಂ",
+            "title_en": "aarthiharastotram",
+            "category_id": "shiva",
             "duration_min": 5,
-            "content": "content/shri_rama_ashtottara_shatanama_stotram.json",
-            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
+            "content": "content/aarthiharastotram.json",
+            "benefits": "ರಕ್ಷಣೆ, ಸಂಕಟ ನಿವಾರಣೆ"
         },
         {
-            "id": "sri_rama_kavacham",
-            "title": "ಶ್ರೀ ರಾಮ ಕವಚಂ ",
-            "title_en": "sri_rama_kavacham",
-            "category_id": "rama",
-            "duration_min": 5,
-            "content": "content/sri_rama_kavacham.json",
-            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
+            "id": "abhilashaashtakam",
+            "title": "ಅಭಿಲಾಷಾಷ್ಟಕಂ",
+            "title_en": "abhilashaashtakam",
+            "category_id": "shiva",
+            "duration_min": 4,
+            "content": "content/abhilashaashtakam.json",
+            "benefits": "ಇಚ್ಛಾ ಪೂರ್ಣತೆ, ಶಾಂತಿ"
         },
         {
-            "id": "sri_rama_hrudayam",
-            "title": "ಶ್ರೀ ರಾಮ ಹೃದಯಂ",
-            "title_en": "sri rama hrudayam",
-            "category_id": "rama",
-            "duration_min": 5,
-            "content": "content/sri_rama_hrudayam.json",
-            "benefits": "ಶಕ್ತಿ ಪ್ರಾಪ್ತಿ, ರಕ್ಷಣೆ"
+            "id": "agastyaashtakam",
+            "title": "ಅಗಸ್ತ್ಯಾಷ್ಟಕಂ",
+            "title_en": "agastyaashtakam",
+            "category_id": "shiva",
+            "duration_min": 4,
+            "content": "content/agastyaashtakam.json",
+            "benefits": "ಜ್ಞಾನ, ಶಕ್ತಿ, ಮಾನಸಿಕ ಶಾಂತಿ"
         },
-        [
-    {
-        "id": "aarthiharastotram",
-        "title": "ಆರ್ತಿಹರ ಸ್ತೋತ್ರಂ",
-        "title_en": "aarthiharastotram",
-        "category_id": "shiva",
-        "duration_min": 5,
-        "content": "content/aarthiharastotram.json",
-        "benefits": "ರಕ್ಷಣೆ, ಸಂಕಟ ನಿವಾರಣೆ"
-    },
-    {
-        "id": "abhilashaashtakam",
-        "title": "ಅಭಿಲಾಷಾಷ್ಟಕಂ",
-        "title_en": "abhilashaashtakam",
-        "category_id": "shiva",
-        "duration_min": 4,
-        "content": "content/abhilashaashtakam.json",
-        "benefits": "ಇಚ್ಛಾ ಪೂರ್ಣತೆ, ಶಾಂತಿ"
-    },
-    {
-        "id": "agastyaashtakam",
-        "title": "ಅಗಸ್ತ್ಯಾಷ್ಟಕಂ",
-        "title_en": "agastyaashtakam",
-        "category_id": "shiva",
-        "duration_min": 4,
-        "content": "content/agastyaashtakam.json",
-        "benefits": "ಜ್ಞಾನ, ಶಕ್ತಿ, ಮಾನಸಿಕ ಶಾಂತಿ"
-    },
-    {
-        "id": "anamayastotram",
-        "title": "ಅನಾಮಯ ಸ್ತೋತ್ರಂ",
-        "title_en": "anamayastotram",
-        "category_id": "shiva",
-        "duration_min": 5,
-        "content": "content/anamayastotram.json",
-        "benefits": "ಆರೋಗ್ಯ, ರೋಗ ನಿವಾರಣೆ"
-    },
-    {
-        "id": "andhakakritashivastuti",
-        "title": "ಶ್ರೀ ಶಿವ ಸ್ತುತಿಃ (ಅಂಧಕ ಕೃತಂ)",
-        "title_en": "andhakakritashivastuti",
-        "category_id": "shiva",
-        "duration_min": 6,
-        "content": "content/andhakakritashivastuti.json",
-        "benefits": "ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿ, ರಕ್ಷಣೆ"
-    },
-    {
-        "id": "ardhanarishvaraashtakam",
-        "title": "ಅರ್ಧನಾರೀಶ್ವರಾಷ್ಟಕಂ",
-        "title_en": "ardhanarishvaraashtakam",
-        "category_id": "shiva",
-        "duration_min": 5,
-        "content": "content/ardhanarishvaraashtakam.json",
-        "benefits": "ಸಮತೋಲನ, ಶಾಂತಿ, ಸೌಖ್ಯ"
-    },
-    {
-        "id": "ardhanarishvaraashtottarashatanamastotram",
-        "title": "ಅರ್ಧನಾರೀಶ್ವರಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ",
-        "title_en": "ardhanarishvaraashtottarashatanamastotram",
-        "category_id": "shiva",
-        "duration_min": 12,
-        "content": "content/ardhanarishvaraashtottarashatanamastotram.json",
-        "benefits": "ರಕ್ಷಣೆ, ಪಾಪ ನಿವಾರಣೆ"
-    },
-    {
-        "id": "ardhanarishvaraashtottarashatanamavali",
-        "title": "ಅರ್ಧನಾರೀಶ್ವರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಲೀ",
-        "title_en": "ardhanarishvaraashtottarashatanamavali",
-        "category_id": "shiva",
-        "duration_min": 10,
-        "content": "content/ardhanarishvaraashtottarashatanamavali.json",
-        "benefits": "ಶಕ್ತಿ, ರಕ್ಷಣೆ, ಧ್ಯಾನ ಶಕ್ತಿ"
-    },
-    {
-        "id": "ardhanarishwarastotram",
-        "title": "ಅರ್ಧನಾರೀಶ್ವರ ಸ್ತೋತ್ರಂ",
-        "title_en": "ardhanarishwarastotram",
-        "category_id": "shiva",
-        "duration_min": 4,
-        "content": "content/ardhanarishwarastotram.json",
-        "benefits": "ಸೌಖ್ಯ, ಶಾಂತಿ, ಏಕತೆ"
-    },
-    {
-        "id": "arunachalaashtakam",
-        "title": "ಅರುಣಾಚಲಾಷ್ಟಕಂ",
-        "title_en": "arunachalaashtakam",
-        "category_id": "shiva",
-        "duration_min": 5,
-        "content": "content/arunachalaashtakam.json",
-        "benefits": "ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿ, ಶಾಂತಿ"
-    },
-    {
-        "id": "ashtamurtiashtakam",
-        "title": "ಅಷ್ಟಮೂರ್ತ್ಯಷ್ಟಕಂ",
-        "title_en": "ashtamurtiashtakam",
-        "category_id": "shiva",
-        "duration_min": 4,
-        "content": "content/ashtamurtiashtakam.json",
-        "benefits": "ರಕ್ಷಣೆ, ಧ್ಯಾನ ಶಕ್ತಿ"
-    },
-    {
-        "id": "ashtottarashatanamavalis108",
-        "title": "ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳ್ಯಃ",
-        "title_en": "ashtottarashatanamavalis108",
-        "category_id": "shiva",
-        "duration_min": 15,
-        "content": "content/ashtottarashatanamavalis108.json",
-        "benefits": "ಪಾಪ ನಾಶ, ಶಾಂತಿ, ಶಕ್ತಿ"
-    },
-    {
-        "id": "asithakruthashivastotram",
-        "title": "ಶ್ರೀ ಶಿವ ಸ್ತೋತ್ರಂ (ಅಸಿತ ಕೃತಂ)",
-        "title_en": "asithakruthashivastotram",
-        "category_id": "shiva",
-        "duration_min": 6,
-        "content": "content/asithakruthashivastotram.json",
-        "benefits": "ರಕ್ಷಣೆ, ಶಾಂತಿ"
-    },
-    {
-        "id": "attalasundaraashtakam",
-        "title": "ಅಟ್ಟಾಲಸುಂದರಾಷ್ಟಕಂ",
-        "title_en": "attalasundaraashtakam",
-        "category_id": "shiva",
-        "duration_min": 5,
-        "content": "content/attalasundaraashtakam.json",
-        "benefits": "ಶಕ್ತಿ, ಧ್ಯಾನ, ರಕ್ಷಣೆ"
-    },
-    {
-        "id": "baneshwarakavachasahitashivastavaraja",
-        "title": "ಶ್ರೀ ಶಿವ ಸ್ತವರಾಜಃ (ಬಾಣೇಶ್ವರ ಕವಚ ಸಹಿತಂ)",
-        "title_en": "baneshwarakavachasahitashivastavaraja",
-        "category_id": "shiva",
-        "duration_min": 12,
-        "content": "content/baneshwarakavachasahitashivastavaraja.json",
-        "benefits": "ರಕ್ಷಣೆ, ಪಾಪ ನಾಶ, ಧ್ಯಾನ ಶಕ್ತಿ"
-    },
-    {
-        "id": "bilvaashttotarashatanamastotram",
-        "title": "ಬಿಲ್ವಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ",
-        "title_en": "bilvaashttotarashatanamastotram",
-        "category_id": "shiva",
-        "duration_min": 10,
-        "content": "content/bilvaashttotarashatanamastotram.json",
-        "benefits": "ಪಾಪ ನಾಶ, ಶಕ್ತಿ, ಶಾಂತಿ"
-    },
-    {
-        "id": "bilvashtakam",
-        "title": "ಬಿಲ್ವಾಷ್ಟಕಂ",
-        "title_en": "bilvashtakam",
-        "category_id": "shiva",
-        "duration_min": 4,
-        "content": "content/bilvashtakam.json",
-        "benefits": "ಶಕ್ತಿ, ಶಾಂತಿ, ಧ್ಯಾನ"
-    },
-    {
-        "id": "bilvashtakam2",
-        "title": "ಬಿಲ್ವಾಷ್ಟಕಂ – 2",
-        "title_en": "bilvashtakam2",
-        "category_id": "shiva",
-        "duration_min": 4,
-        "content": "content/bilvashtakam2.json",
-        "benefits": "ಶಕ್ತಿ, ಶಾಂತಿ, ಧ್ಯಾನ"
-    },
-    {
-        "id": "brahmadidevakritamahadevastuti",
-        "title": "ಶ್ರೀ ಮಹಾದೇವ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮಾದಿದೇವ ಕೃತಂ)",
-        "title_en": "brahmadidevakritamahadevastuti",
-        "category_id": "shiva",
-        "duration_min": 6,
-        "content": "content/brahmadidevakritamahadevastuti.json",
-        "benefits": "ರಕ್ಷಣೆ, ಶಕ್ತಿ, ಧ್ಯಾನ"
-    },
-    {
-        "id": "chandrasekharaashtakam",
-        "title": "ಚಂದ್ರಶೇಖರಾಷ್ಟಕಂ",
-        "title_en": "chandrasekharaashtakam",
-        "category_id": "shiva",
-        "duration_min": 5,
-        "content": "content/chandrasekharaashtakam.json",
-        "benefits": "ಶಕ್ತಿ, ಶಾಂತಿ, ರಕ್ಷಣೆ"
-    },
-    {
-        "id": "daridryadahanashivastotram",
-        "title": "ದಾರಿದ್ರ್ಯದಹನ ಶಿವ ಸ್ತೋತ್ರಂ",
-        "title_en": "daridryadahanashivastotram",
-        "category_id": "shiva",
-        "duration_min": 5,
-        "content": "content/daridryadahanashivastotram.json",
-        "benefits": "ಆರ್ಥಿಕ ಶಕ್ತಿ, ಸಂಕಟ ನಿವಾರಣೆ"
-    }
-]
+        {
+            "id": "anamayastotram",
+            "title": "ಅನಾಮಯ ಸ್ತೋತ್ರಂ",
+            "title_en": "anamayastotram",
+            "category_id": "shiva",
+            "duration_min": 5,
+            "content": "content/anamayastotram.json",
+            "benefits": "ಆರೋಗ್ಯ, ರೋಗ ನಿವಾರಣೆ"
+        },
+        {
+            "id": "andhakakritashivastuti",
+            "title": "ಶ್ರೀ ಶಿವ ಸ್ತುತಿಃ (ಅಂಧಕ ಕೃತಂ)",
+            "title_en": "andhakakritashivastuti",
+            "category_id": "shiva",
+            "duration_min": 6,
+            "content": "content/andhakakritashivastuti.json",
+            "benefits": "ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿ, ರಕ್ಷಣೆ"
+        },
+        {
+            "id": "ardhanarishvaraashtakam",
+            "title": "ಅರ್ಧನಾರೀಶ್ವರಾಷ್ಟಕಂ",
+            "title_en": "ardhanarishvaraashtakam",
+            "category_id": "shiva",
+            "duration_min": 5,
+            "content": "content/ardhanarishvaraashtakam.json",
+            "benefits": "ಸಮತೋಲನ, ಶಾಂತಿ, ಸೌಖ್ಯ"
+        },
+        {
+            "id": "ardhanarishvaraashtottarashatanamastotram",
+            "title": "ಅರ್ಧನಾರೀಶ್ವರಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ",
+            "title_en": "ardhanarishvaraashtottarashatanamastotram",
+            "category_id": "shiva",
+            "duration_min": 12,
+            "content": "content/ardhanarishvaraashtottarashatanamastotram.json",
+            "benefits": "ರಕ್ಷಣೆ, ಪಾಪ ನಿವಾರಣೆ"
+        },
+        {
+            "id": "ardhanarishvaraashtottarashatanamavali",
+            "title": "ಅರ್ಧನಾರೀಶ್ವರಾಷ್ಟೋತ್ತರಶತನಾಮಾವಲೀ",
+            "title_en": "ardhanarishvaraashtottarashatanamavali",
+            "category_id": "shiva",
+            "duration_min": 10,
+            "content": "content/ardhanarishvaraashtottarashatanamavali.json",
+            "benefits": "ಶಕ್ತಿ, ರಕ್ಷಣೆ, ಧ್ಯಾನ ಶಕ್ತಿ"
+        },
+        {
+            "id": "ardhanarishwarastotram",
+            "title": "ಅರ್ಧನಾರೀಶ್ವರ ಸ್ತೋತ್ರಂ",
+            "title_en": "ardhanarishwarastotram",
+            "category_id": "shiva",
+            "duration_min": 4,
+            "content": "content/ardhanarishwarastotram.json",
+            "benefits": "ಸೌಖ್ಯ, ಶಾಂತಿ, ಏಕತೆ"
+        },
+        {
+            "id": "arunachalaashtakam",
+            "title": "ಅರುಣಾಚಲಾಷ್ಟಕಂ",
+            "title_en": "arunachalaashtakam",
+            "category_id": "shiva",
+            "duration_min": 5,
+            "content": "content/arunachalaashtakam.json",
+            "benefits": "ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿ, ಶಾಂತಿ"
+        },
+        {
+            "id": "ashtamurtiashtakam",
+            "title": "ಅಷ್ಟಮೂರ್ತ್ಯಷ್ಟಕಂ",
+            "title_en": "ashtamurtiashtakam",
+            "category_id": "shiva",
+            "duration_min": 4,
+            "content": "content/ashtamurtiashtakam.json",
+            "benefits": "ರಕ್ಷಣೆ, ಧ್ಯಾನ ಶಕ್ತಿ"
+        },
+        {
+            "id": "ashtottarashatanamavalis108",
+            "title": "ಅಷ್ಟೋತ್ತರಶತನಾಮಾವಳ್ಯಃ",
+            "title_en": "ashtottarashatanamavalis108",
+            "category_id": "shiva",
+            "duration_min": 15,
+            "content": "content/ashtottarashatanamavalis108.json",
+            "benefits": "ಪಾಪ ನಾಶ, ಶಾಂತಿ, ಶಕ್ತಿ"
+        },
+        {
+            "id": "asithakruthashivastotram",
+            "title": "ಶ್ರೀ ಶಿವ ಸ್ತೋತ್ರಂ (ಅಸಿತ ಕೃತಂ)",
+            "title_en": "asithakruthashivastotram",
+            "category_id": "shiva",
+            "duration_min": 6,
+            "content": "content/asithakruthashivastotram.json",
+            "benefits": "ರಕ್ಷಣೆ, ಶಾಂತಿ"
+        },
+        {
+            "id": "attalasundaraashtakam",
+            "title": "ಅಟ್ಟಾಲಸುಂದರಾಷ್ಟಕಂ",
+            "title_en": "attalasundaraashtakam",
+            "category_id": "shiva",
+            "duration_min": 5,
+            "content": "content/attalasundaraashtakam.json",
+            "benefits": "ಶಕ್ತಿ, ಧ್ಯಾನ, ರಕ್ಷಣೆ"
+        },
+        {
+            "id": "baneshwarakavachasahitashivastavaraja",
+            "title": "ಶ್ರೀ ಶಿವ ಸ್ತವರಾಜಃ (ಬಾಣೇಶ್ವರ ಕವಚ ಸಹಿತಂ)",
+            "title_en": "baneshwarakavachasahitashivastavaraja",
+            "category_id": "shiva",
+            "duration_min": 12,
+            "content": "content/baneshwarakavachasahitashivastavaraja.json",
+            "benefits": "ರಕ್ಷಣೆ, ಪಾಪ ನಾಶ, ಧ್ಯಾನ ಶಕ್ತಿ"
+        },
+        {
+            "id": "bilvaashttotarashatanamastotram",
+            "title": "ಬಿಲ್ವಾಷ್ಟೋತ್ತರಶತನಾಮ ಸ್ತೋತ್ರಂ",
+            "title_en": "bilvaashttotarashatanamastotram",
+            "category_id": "shiva",
+            "duration_min": 10,
+            "content": "content/bilvaashttotarashatanamastotram.json",
+            "benefits": "ಪಾಪ ನಾಶ, ಶಕ್ತಿ, ಶಾಂತಿ"
+        },
+        {
+            "id": "bilvashtakam",
+            "title": "ಬಿಲ್ವಾಷ್ಟಕಂ",
+            "title_en": "bilvashtakam",
+            "category_id": "shiva",
+            "duration_min": 4,
+            "content": "content/bilvashtakam.json",
+            "benefits": "ಶಕ್ತಿ, ಶಾಂತಿ, ಧ್ಯಾನ"
+        },
+        {
+            "id": "bilvashtakam2",
+            "title": "ಬಿಲ್ವಾಷ್ಟಕಂ – 2",
+            "title_en": "bilvashtakam2",
+            "category_id": "shiva",
+            "duration_min": 4,
+            "content": "content/bilvashtakam2.json",
+            "benefits": "ಶಕ್ತಿ, ಶಾಂತಿ, ಧ್ಯಾನ"
+        },
+        {
+            "id": "brahmadidevakritamahadevastuti",
+            "title": "ಶ್ರೀ ಮಹಾದೇವ ಸ್ತುತಿಃ (ಬ್ರಹ್ಮಾದಿದೇವ ಕೃತಂ)",
+            "title_en": "brahmadidevakritamahadevastuti",
+            "category_id": "shiva",
+            "duration_min": 6,
+            "content": "content/brahmadidevakritamahadevastuti.json",
+            "benefits": "ರಕ್ಷಣೆ, ಶಕ್ತಿ, ಧ್ಯಾನ"
+        },
+        {
+            "id": "chandrasekharaashtakam",
+            "title": "ಚಂದ್ರಶೇಖರಾಷ್ಟಕಂ",
+            "title_en": "chandrasekharaashtakam",
+            "category_id": "shiva",
+            "duration_min": 5,
+            "content": "content/chandrasekharaashtakam.json",
+            "benefits": "ಶಕ್ತಿ, ಶಾಂತಿ, ರಕ್ಷಣೆ"
+        },
+        {
+            "id": "daridryadahanashivastotram",
+            "title": "ದಾರಿದ್ರ್ಯದಹನ ಶಿವ ಸ್ತೋತ್ರಂ",
+            "title_en": "daridryadahanashivastotram",
+            "category_id": "shiva",
+            "duration_min": 5,
+            "content": "content/daridryadahanashivastotram.json",
+            "benefits": "ಆರ್ಥಿಕ ಶಕ್ತಿ, ಸಂಕಟ ನಿವಾರಣೆ"
+        }
     ]
 }
