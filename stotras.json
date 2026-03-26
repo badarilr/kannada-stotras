@@ -239,15 +239,6 @@
             "benefits": "ಶಕ್ತಿ, ರಕ್ಷಣೆ, ಧ್ಯಾನ ಶಕ್ತಿ"
         },
         {
-            "id": "ardhanarishwarastotram",
-            "title": "ಅರ್ಧನಾರೀಶ್ವರ ಸ್ತೋತ್ರಂ",
-            "title_en": "ardhanarishwarastotram",
-            "category_id": "shiva",
-            "duration_min": 4,
-            "content": "content/ardhanarishwarastotram.json",
-            "benefits": "ಸೌಖ್ಯ, ಶಾಂತಿ, ಏಕತೆ"
-        },
-        {
             "id": "arunachalaashtakam",
             "title": "ಅರುಣಾಚಲಾಷ್ಟಕಂ",
             "title_en": "arunachalaashtakam",
